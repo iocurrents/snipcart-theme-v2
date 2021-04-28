@@ -13,13 +13,13 @@ $palettes: (
     ),
     button: (
         background: #555,
-        background--highlight: #efe778,
+        background--highlight: #1A64B0,
         background--hover: darken(#555, 10%),
         background--danger: #f10,
         background--danger-hover: darken(#f10, 10%),
-        background--highlight-hover: darken(#efe778, 10%),
+        background--highlight-hover: darken(#accae7, 10%),
         color: #fff,
-        color--highlight: #222,
+        color--highlight: #fff,
     ),
     error: (
         color: #f10,
@@ -44,9 +44,9 @@ $palettes: (
         color--invert: #fff
     ),
     footer: (
-        background: #222,
-        color: #555,
-        color--highlight: #999
+        background: #0f3963,
+        color: #fff,
+        color--highlight: #fff
     ),
     form: (
         background: #fff,
@@ -57,8 +57,8 @@ $palettes: (
         label-color: #999
     ),
     header: (
-        background: #222,
-        background--highlight: #111,
+        background: #0f3963,
+        background--highlight: #144d86,
         color: #fff,
         label-color: #999
     ),
